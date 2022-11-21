@@ -36,6 +36,12 @@ li.done span {
   text-decoration: line-through;
 }
 
+span.done {
+  color: gray;
+  text-decoration: line-through;
+}
+
+
 .delete {
   background-color: darkred;
 }
